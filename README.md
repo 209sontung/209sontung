@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile! I'm an experienced AI Engineer with a knack for Computer Vision and Natural Language Processing (NLP). Considered myself as a modern-day Sherlock Holmes 🕵️‍♂️, training machines to see and understand the world better than Watson 👨‍⚕️ ever could.
+Welcome to my GitHub profile! I'm an experienced AI Engineer with a knack for Computer Vision and Natural Language Processing (NLP). Considered myself as a modern-day Sherlock Holmes, training machines to see and understand the world better than Watson ever could.
 
 - 🔭 I’m currently working on cutting-edge AI projects focused on Computer Vision and NLP.
 - 🌱 I’m currently learning advanced deep learning techniques and exploring new research papers in the field.
